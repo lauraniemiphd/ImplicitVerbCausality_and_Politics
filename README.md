@@ -1,2 +1,2 @@
 # ImplicitVerbCausality_and_Politics
-Replication data and additional analyses for project showing political partisanship alters the causality implicit in verb meaning 
+Replication data, additional analyses, R script for project showing political candidate support alters the causality implicit in verb meaning 
